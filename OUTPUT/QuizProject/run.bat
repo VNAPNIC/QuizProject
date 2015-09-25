@@ -1,0 +1,1 @@
+appletviewer.exe -J-Djava.security.policy=applet.policy build\MainApplet.html
